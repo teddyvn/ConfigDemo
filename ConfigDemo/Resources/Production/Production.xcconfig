@@ -1,0 +1,11 @@
+//
+//  Production.xcconfig
+//  ConfigDemo
+//
+//  Created by admin on 23/07/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+XCC_BUNDLE_NAME = ConfigDemo
+XCC_CONFIG_PATH = Production/Config.plist
